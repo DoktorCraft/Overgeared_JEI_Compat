@@ -53,16 +53,11 @@ public class Overgeared_jei_compat {
 
         // Register the item to a creative tab
     }
-
     private void commonSetup(final FMLCommonSetupEvent event) {
     }
-
-
     // You can use SubscribeEvent and let the Event Bus discover methods to call
     @SubscribeEvent
     public void onServerStarting(ServerStartingEvent event) {
         // Do something when the server starts
     }
-
-
 }
