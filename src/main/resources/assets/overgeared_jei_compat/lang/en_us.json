@@ -1,5 +1,10 @@
 {
-  "itemGroup.overgeared_jei_compat": "Example Mod Tab",
-  "block.overgeared_jei_compat.example_block": "Example Block",
-  "item.overgeared_jei_compat.example_item": "Example Item"
+  "jei.overgeared_jei_compat.alloy_smelting": "Alloying",
+  "jei.overgeared_jei_compat.nether_alloy_smelting": "Nether Alloying",
+  "jei.overgeared_jei_compat.casting": "Casting",
+  "jei.overgeared_jei_compat.cooling": "Cooling",
+  "jei.overgeared_jei_compat.forging": "Forging",
+  "jei.overgeared_jei_compat.grinding": "Grinding",
+  "jei.overgeared_jei_compat.knapping": "Knapping",
+  "jei.overgeared_jei_compat.fletching": "Fletching"
 }
